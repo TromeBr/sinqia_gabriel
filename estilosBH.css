@@ -1,0 +1,10 @@
+.corVermelha{
+    
+    color: red
+    border-radius: 10px 0px 10px 0px;
+}
+.corLaranja{
+	color: orange
+	/*CSS 3*/
+	border-radius: 10px 0px 10px 0px;
+}
